@@ -118,8 +118,13 @@
               "devServerTarget": "angular-crash-todolist:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "angular-crash-todolist"
 }

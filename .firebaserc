@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "rutgers-app-d1fc8": {
+      "hosting": {
+        "angular-crash-todolist": [
+          "rutgers-app-d1fc8"
+        ]
+      }
+    }
+  }
+}
